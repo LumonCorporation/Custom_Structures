@@ -6,5 +6,5 @@
 ![image](https://github.com/LumonCorporation/Custom_Structures/blob/main/files/2024-11-17_19.43.59.png)
 </div>
 
-# Изменения
+# Нововведения
 - Сундуки заменены на Хранилища, открывающиеся крюками
