@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1> Custom Structures </h1>
-Добавляет и изменяет некоторые ванильные структуры <br><br>
+Изменяет ванильные структуры и добавляет дополнительные <br><br>
 
 ![image](https://github.com/LumonCorporation/Custom_Structures/blob/main/files/Custom_Structures.png) <br>
 </div>
